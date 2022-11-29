@@ -23,3 +23,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+image ![image](https://user-images.githubusercontent.com/111103755/204610743-b6307497-9c59-468c-94e4-8568ea379bfd.png)
+
+deployed page:
+
